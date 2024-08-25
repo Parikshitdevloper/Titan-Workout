@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TitanWorkout</string>
+    <string name="loginTxt">Are you have an account? <font color="#FD511B">Sign in </font></string>
+</resources>
